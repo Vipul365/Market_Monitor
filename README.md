@@ -1,2 +1,2 @@
-# company_scorecard
+# market monitor
 Collaborative project
